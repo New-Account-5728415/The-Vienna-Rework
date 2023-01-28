@@ -1,4 +1,3 @@
-# The Vienna Rework
  
 original: 
 
